@@ -236,6 +236,10 @@ footer a {
     font-size: 12px;
   }
 
+  main h3 {
+    font-size: 32px;
+  }
+
   .grid {
     /* grid-template-columns: 1fr; */
     grid-gap: 30px;
@@ -258,7 +262,7 @@ footer a {
   }
 }
 
-@media (max-width: 460px) {
+@media (max-width: 400px) {
   .card-header.grid-2-columns {
     grid-template-columns: 1fr;
   }
