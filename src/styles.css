@@ -262,7 +262,7 @@ footer a {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 390px) {
   .card-header.grid-2-columns {
     grid-template-columns: 1fr;
   }
