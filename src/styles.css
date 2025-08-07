@@ -146,7 +146,7 @@ main p {
 }
 
 .instagram-embeds {
-  margin: 30px 0 0 0;
+  margin: 30px 0;
 }
 
 .card {
@@ -262,7 +262,7 @@ footer a {
   }
 }
 
-@media (max-width: 370px) {
+@media (max-width: 390px) {
   .card-header.grid-2-columns {
     grid-template-columns: 1fr;
   }
