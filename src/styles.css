@@ -233,7 +233,7 @@ footer a {
   }
 
   header h3 {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   main h3 {
@@ -262,7 +262,7 @@ footer a {
   }
 }
 
-@media (max-width: 390px) {
+/* @media (max-width: 390px) {
   .card-header.grid-2-columns {
     grid-template-columns: 1fr;
   }
@@ -274,4 +274,4 @@ footer a {
   .embed {
     aspect-ratio: 16/9;
   }
-}  
+}   */
